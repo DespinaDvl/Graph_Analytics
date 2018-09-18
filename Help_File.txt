@@ -1,4 +1,4 @@
-Document regarding the code file submitted
+Document regarding the code files
 
 1. algorithms.py - This is the main code file which contains all the Minimum Spanning Tree, Heap implementation, centrality and betweenness code. 
 There is a test graph file with the name test.weighted.edgelist which you can give as an input to the program. Program requires path of the file to be given as a input.
