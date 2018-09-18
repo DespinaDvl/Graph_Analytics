@@ -1,0 +1,14 @@
+Document regarding the code file submitted
+
+1. algorithms.py - This is the main code file which contains all the Minimum Spanning Tree, Heap implementation, centrality and betweenness code. 
+There is a test graph file with the name test.weighted.edgelist which you can give as an input to the program. Program requires path of the file to be given as a input.
+
+
+2. random_graph_generator.py - This is a random graph generator program which helps generating random graphs using prefrential attachment method. 
+As an output it creates a graph file with the name of "test.weighted.edgelist"
+
+3. for_testing_aor.py - This program is a modified version of algorithms.py and graph generator, this we used to test the runtime of our program with heap and array 
+method for different node and edge combination.
+
+4. Folder - Test cases - This folder contains five test graph cases with the name test1.txt etc. Also there are files with the name min_span1.txt which is the minimum 
+spanning tree output of our program. 
