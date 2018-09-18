@@ -4,6 +4,6 @@ Document regarding the code files
 
 2. random_graph_generator.py - This is a random graph generator program which allows the generation of random graphs using the prefrential attachment method. 
 
-3. for_testing_aor.py - This program is a modified version that was used to test the runtime of the program.
+3. testing_aor.py - This program is a modified version that was used to test the runtime of the program.
 
 4. Folder - Test cases - This folder contains five test graph cases and the relevant minimum spanning tree outputs. 
